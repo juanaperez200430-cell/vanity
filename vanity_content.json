@@ -1,0 +1,179 @@
+{
+  "brand": {
+    "name": "VANITY",
+    "collection": "Capsule 001",
+    "slogan": "East in form, West in attitude",
+    "launch_date": "2026-12-15",
+    "location": "Buenos Aires, Argentina",
+    "aesthetic": [
+      "moda urbana",
+      "inspiración coreana",
+      "inspiración japonesa",
+      "inspiración china",
+      "toques occidentales",
+      "siluetas oversize"
+    ]
+  },
+  "palette": {
+    "black": "#111216",
+    "white": "#f7f7f5",
+    "gray": "#e5e6e8",
+    "muted_gray": "#777b83",
+    "cherry_red": "#d9273b",
+    "dark_blue": "#142b50"
+  },
+  "navigation": [
+    {
+      "label": "La cápsula",
+      "href": "#capsula"
+    },
+    {
+      "label": "Talles",
+      "href": "#talles"
+    },
+    {
+      "label": "Packaging",
+      "href": "#packaging"
+    },
+    {
+      "label": "Cómo comprar",
+      "href": "#comprar"
+    },
+    {
+      "label": "Próximo drop",
+      "href": "#comprar"
+    }
+  ],
+  "products": [
+    {
+      "code": "V-01",
+      "name": "Campera",
+      "category": "Outerwear",
+      "description": "Volumen urbano · capas",
+      "status": "Próximamente"
+    },
+    {
+      "code": "V-02",
+      "name": "Buzo",
+      "category": "Layer",
+      "description": "Fit amplio · everyday uniform",
+      "status": "Próximamente"
+    },
+    {
+      "code": "V-03",
+      "name": "Remera",
+      "category": "Essential",
+      "description": "Unisex · relaxed fit",
+      "status": "Próximamente"
+    },
+    {
+      "code": "V-04",
+      "name": "Cinto",
+      "category": "Accessory",
+      "description": "Detalle funcional · everyday",
+      "status": "Próximamente"
+    },
+    {
+      "code": "V-05",
+      "name": "Gorra",
+      "category": "Headwear",
+      "description": "Street staple · unisex",
+      "status": "Próximamente"
+    }
+  ],
+  "size_guide": {
+    "unit": "cm",
+    "type": "Medidas corporales de referencia; tabla provisional",
+    "columns": [
+      "Talle",
+      "Pecho",
+      "Cintura",
+      "Cadera"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "chest": "80–88",
+        "waist": "64–72",
+        "hip": "84–92"
+      },
+      {
+        "size": "S",
+        "chest": "88–96",
+        "waist": "72–80",
+        "hip": "92–100"
+      },
+      {
+        "size": "M",
+        "chest": "96–104",
+        "waist": "80–88",
+        "hip": "100–108"
+      },
+      {
+        "size": "L",
+        "chest": "104–112",
+        "waist": "88–96",
+        "hip": "108–116"
+      },
+      {
+        "size": "XL",
+        "chest": "112–122",
+        "waist": "96–106",
+        "hip": "116–126"
+      },
+      {
+        "size": "XXL",
+        "chest": "122–132",
+        "waist": "106–116",
+        "hip": "126–136"
+      }
+    ],
+    "note": "Las medidas definitivas de cada prenda deben publicarse antes del lanzamiento. Las medidas finales pueden variar según el modelo."
+  },
+  "packaging": {
+    "title": "Más que una prenda",
+    "concept": "Packaging minimalista con identidad propia, detalles gráficos inspirados en la cápsula y una experiencia de unboxing cuidada."
+  },
+  "purchase": {
+    "limited_drop": true,
+    "steps": [
+      "Explorar las prendas y consultar talles, medidas, colores y stock.",
+      "Elegir un medio de pago y confirmar las condiciones.",
+      "Coordinar el envío o un punto de encuentro."
+    ],
+    "payment_methods": [
+      {
+        "name": "Cuotas sin interés",
+        "details": "Tarjetas participantes; cantidad de cuotas y condiciones a confirmar."
+      },
+      {
+        "name": "Transferencia bancaria",
+        "details": "Los datos oficiales se informarán al realizar el pedido."
+      },
+      {
+        "name": "Efectivo en punto de encuentro",
+        "details": "Sujeto a coordinación previa y disponibilidad."
+      }
+    ]
+  },
+  "shipping": {
+    "coverage": "Todo el país",
+    "options": [
+      "A domicilio",
+      "Retiro en sucursal"
+    ],
+    "carriers": [
+      "Andreani",
+      "Correo Argentino"
+    ],
+    "note": "Costos, plazos, cobertura y seguimiento se informarán al confirmar el pedido."
+  },
+  "contact": {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "email_placeholder": "hola@vanity.com.ar",
+    "instagram_url": "https://www.instagram.com/",
+    "tiktok_url": "https://www.tiktok.com/",
+    "note": "Reemplazar los datos de ejemplo por los canales oficiales de la marca."
+  }
+}
